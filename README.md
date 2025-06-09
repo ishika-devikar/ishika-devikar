@@ -4,8 +4,6 @@ I'm **Ishika Devikar**, a final-year MCA student at **MIT World Peace University
 
 I’m a **creative thinker** with a curious mind — I love breaking down problems and rebuilding them into smart, user-friendly digital solutions. Whether it's an app idea, a tech challenge, or a daily inconvenience, I turn **"what ifs" into working code.**
 
-🔍 One of my favorite projects:  
-  I built a custom **Telegram automation solution** to fix a problem I faced — rather than waiting for a tool, I coded one myself.
 
 🔭 I’m currently working on:  
   📱 A **Movie Streaming Android App**  
